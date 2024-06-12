@@ -1,0 +1,14 @@
+E:\hoc tap\ki5\COMP1551\week_5\bin\Debug\net8.0\week_5.exe
+E:\hoc tap\ki5\COMP1551\week_5\bin\Debug\net8.0\week_5.deps.json
+E:\hoc tap\ki5\COMP1551\week_5\bin\Debug\net8.0\week_5.runtimeconfig.json
+E:\hoc tap\ki5\COMP1551\week_5\bin\Debug\net8.0\week_5.dll
+E:\hoc tap\ki5\COMP1551\week_5\bin\Debug\net8.0\week_5.pdb
+E:\hoc tap\ki5\COMP1551\week_5\obj\Debug\net8.0\week_5.GeneratedMSBuildEditorConfig.editorconfig
+E:\hoc tap\ki5\COMP1551\week_5\obj\Debug\net8.0\week_5.AssemblyInfoInputs.cache
+E:\hoc tap\ki5\COMP1551\week_5\obj\Debug\net8.0\week_5.AssemblyInfo.cs
+E:\hoc tap\ki5\COMP1551\week_5\obj\Debug\net8.0\week_5.csproj.CoreCompileInputs.cache
+E:\hoc tap\ki5\COMP1551\week_5\obj\Debug\net8.0\week_5.dll
+E:\hoc tap\ki5\COMP1551\week_5\obj\Debug\net8.0\refint\week_5.dll
+E:\hoc tap\ki5\COMP1551\week_5\obj\Debug\net8.0\week_5.pdb
+E:\hoc tap\ki5\COMP1551\week_5\obj\Debug\net8.0\week_5.genruntimeconfig.cache
+E:\hoc tap\ki5\COMP1551\week_5\obj\Debug\net8.0\ref\week_5.dll
