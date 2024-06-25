@@ -1,0 +1,10 @@
+E:\hoc tap\ki5\COMP1551\calculator\bin\Debug\calculator.exe.config
+E:\hoc tap\ki5\COMP1551\calculator\bin\Debug\calculator.exe
+E:\hoc tap\ki5\COMP1551\calculator\bin\Debug\calculator.pdb
+E:\hoc tap\ki5\COMP1551\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+E:\hoc tap\ki5\COMP1551\calculator\obj\Debug\calculator.Form1.resources
+E:\hoc tap\ki5\COMP1551\calculator\obj\Debug\calculator.Properties.Resources.resources
+E:\hoc tap\ki5\COMP1551\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+E:\hoc tap\ki5\COMP1551\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+E:\hoc tap\ki5\COMP1551\calculator\obj\Debug\calculator.exe
+E:\hoc tap\ki5\COMP1551\calculator\obj\Debug\calculator.pdb
