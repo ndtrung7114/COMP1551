@@ -3,91 +3,108 @@
   "WorkspaceRootPath": "E:\\hoc tap\\ki5\\COMP1551\\week1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C3BCAD8-AE10-4D2C-9F32-E5435AB4E878}|..\\week_7\\week_7.csproj|e:\\hoc tap\\ki5\\comp1551\\week_7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B0A8EA2-7B5A-49DD-AE4D-CBDB11925F4E}|..\\WindowsFormsApp3\\WindowsFormsApp3.csproj|e:\\hoc tap\\ki5\\comp1551\\windowsformsapp3\\form_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{792C4046-1132-4ABF-961F-88BE34B26645}|..\\week_6\\week_6.csproj|e:\\hoc tap\\ki5\\comp1551\\week_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B0A8EA2-7B5A-49DD-AE4D-CBDB11925F4E}|..\\WindowsFormsApp3\\WindowsFormsApp3.csproj|e:\\hoc tap\\ki5\\comp1551\\windowsformsapp3\\form_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BA0C68A-B1EA-40AA-8D9D-E80AC1C4B8C9}|..\\week_5\\week_5.csproj|e:\\hoc tap\\ki5\\comp1551\\week_5\\lab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B0A8EA2-7B5A-49DD-AE4D-CBDB11925F4E}|..\\WindowsFormsApp3\\WindowsFormsApp3.csproj|e:\\hoc tap\\ki5\\comp1551\\windowsformsapp3\\form_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BA0C68A-B1EA-40AA-8D9D-E80AC1C4B8C9}|..\\week_5\\week_5.csproj|e:\\hoc tap\\ki5\\comp1551\\week_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B0A8EA2-7B5A-49DD-AE4D-CBDB11925F4E}|..\\WindowsFormsApp3\\WindowsFormsApp3.csproj|e:\\hoc tap\\ki5\\comp1551\\windowsformsapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10AFD5EC-6F0A-4803-8110-8F54686E666D}|..\\week_4\\week_4.csproj|e:\\hoc tap\\ki5\\comp1551\\week_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B0A8EA2-7B5A-49DD-AE4D-CBDB11925F4E}|..\\WindowsFormsApp3\\WindowsFormsApp3.csproj|e:\\hoc tap\\ki5\\comp1551\\windowsformsapp3\\form_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0A8EA2-7B5A-49DD-AE4D-CBDB11925F4E}|..\\WindowsFormsApp3\\WindowsFormsApp3.csproj|e:\\hoc tap\\ki5\\comp1551\\windowsformsapp3\\form_login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 198,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\hoc tap\\ki5\\COMP1551\\week_7\\Program.cs",
-              "RelativeDocumentMoniker": "..\\week_7\\Program.cs",
-              "ToolTip": "E:\\hoc tap\\ki5\\COMP1551\\week_7\\Program.cs",
-              "RelativeToolTip": "..\\week_7\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T14:45:01.251Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\hoc tap\\ki5\\COMP1551\\week_4\\Program.cs",
-              "RelativeDocumentMoniker": "..\\week_4\\Program.cs",
-              "ToolTip": "E:\\hoc tap\\ki5\\COMP1551\\week_4\\Program.cs",
-              "RelativeToolTip": "..\\week_4\\Program.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T07:06:20.396Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\hoc tap\\ki5\\COMP1551\\week_6\\Program.cs",
-              "RelativeDocumentMoniker": "..\\week_6\\Program.cs",
-              "ToolTip": "E:\\hoc tap\\ki5\\COMP1551\\week_6\\Program.cs",
-              "RelativeToolTip": "..\\week_6\\Program.cs",
-              "ViewState": "AQIAACcBAAAAAAAAAAAqwI8AAAAYAAAA",
+              "Title": "Form_admin.cs",
+              "DocumentMoniker": "E:\\hoc tap\\ki5\\COMP1551\\WindowsFormsApp3\\Form_admin.cs",
+              "RelativeDocumentMoniker": "..\\WindowsFormsApp3\\Form_admin.cs",
+              "ToolTip": "E:\\hoc tap\\ki5\\COMP1551\\WindowsFormsApp3\\Form_admin.cs",
+              "RelativeToolTip": "..\\WindowsFormsApp3\\Form_admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T05:55:16.204Z",
+              "WhenOpened": "2024-06-25T04:17:10.451Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "lab.cs",
-              "DocumentMoniker": "E:\\hoc tap\\ki5\\COMP1551\\week_5\\lab.cs",
-              "RelativeDocumentMoniker": "..\\week_5\\lab.cs",
-              "ToolTip": "E:\\hoc tap\\ki5\\COMP1551\\week_5\\lab.cs",
-              "RelativeToolTip": "..\\week_5\\lab.cs",
-              "ViewState": "AQIAAG4AAAAAAAAAAAAAwLIAAAAAAAAA",
+              "DocumentIndex": 5,
+              "Title": "Form_login.Designer.cs",
+              "DocumentMoniker": "E:\\hoc tap\\ki5\\COMP1551\\WindowsFormsApp3\\Form_login.Designer.cs",
+              "RelativeDocumentMoniker": "..\\WindowsFormsApp3\\Form_login.Designer.cs",
+              "ToolTip": "E:\\hoc tap\\ki5\\COMP1551\\WindowsFormsApp3\\Form_login.Designer.cs",
+              "RelativeToolTip": "..\\WindowsFormsApp3\\Form_login.Designer.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAYwIQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T03:37:10.52Z"
+              "WhenOpened": "2024-06-25T02:59:25Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\hoc tap\\ki5\\COMP1551\\week_5\\Program.cs",
-              "RelativeDocumentMoniker": "..\\week_5\\Program.cs",
-              "ToolTip": "E:\\hoc tap\\ki5\\COMP1551\\week_5\\Program.cs",
-              "RelativeToolTip": "..\\week_5\\Program.cs",
-              "ViewState": "AQIAADEAAAAAAAAAAADwv6gAAAADAAAA",
+              "DocumentMoniker": "E:\\hoc tap\\ki5\\COMP1551\\WindowsFormsApp3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\WindowsFormsApp3\\Program.cs",
+              "ToolTip": "E:\\hoc tap\\ki5\\COMP1551\\WindowsFormsApp3\\Program.cs",
+              "RelativeToolTip": "..\\WindowsFormsApp3\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T13:08:36.271Z"
+              "WhenOpened": "2024-06-25T02:02:13.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form_admin.cs [Design]",
+              "DocumentMoniker": "E:\\hoc tap\\ki5\\COMP1551\\WindowsFormsApp3\\Form_admin.cs",
+              "RelativeDocumentMoniker": "..\\WindowsFormsApp3\\Form_admin.cs",
+              "ToolTip": "E:\\hoc tap\\ki5\\COMP1551\\WindowsFormsApp3\\Form_admin.cs [Design]",
+              "RelativeToolTip": "..\\WindowsFormsApp3\\Form_admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T01:59:54.06Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form_login.cs",
+              "DocumentMoniker": "E:\\hoc tap\\ki5\\COMP1551\\WindowsFormsApp3\\Form_login.cs",
+              "RelativeDocumentMoniker": "..\\WindowsFormsApp3\\Form_login.cs",
+              "ToolTip": "E:\\hoc tap\\ki5\\COMP1551\\WindowsFormsApp3\\Form_login.cs",
+              "RelativeToolTip": "..\\WindowsFormsApp3\\Form_login.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAQwFUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T01:59:02.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form_login.cs [Design]",
+              "DocumentMoniker": "E:\\hoc tap\\ki5\\COMP1551\\WindowsFormsApp3\\Form_login.cs",
+              "RelativeDocumentMoniker": "..\\WindowsFormsApp3\\Form_login.cs",
+              "ToolTip": "E:\\hoc tap\\ki5\\COMP1551\\WindowsFormsApp3\\Form_login.cs [Design]",
+              "RelativeToolTip": "..\\WindowsFormsApp3\\Form_login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T01:58:11.426Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

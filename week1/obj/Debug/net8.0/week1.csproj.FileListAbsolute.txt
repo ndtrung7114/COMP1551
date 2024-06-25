@@ -12,3 +12,4 @@ E:\hoc tap\ki5\COMP1551\week1\obj\Debug\net8.0\refint\week1.dll
 E:\hoc tap\ki5\COMP1551\week1\obj\Debug\net8.0\week1.pdb
 E:\hoc tap\ki5\COMP1551\week1\obj\Debug\net8.0\week1.genruntimeconfig.cache
 E:\hoc tap\ki5\COMP1551\week1\obj\Debug\net8.0\ref\week1.dll
+E:\hoc tap\ki5\COMP1551\week1\obj\Debug\net8.0\week1.sourcelink.json

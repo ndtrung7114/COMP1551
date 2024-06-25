@@ -3,16 +3,19 @@
   "WorkspaceRootPath": "E:\\hoc tap\\ki5\\COMP1551\\train\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E56F408D-B86D-4181-9F57-AAA4DADF4E76}|train.csproj|e:\\hoc tap\\ki5\\comp1551\\train\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E56F408D-B86D-4181-9F57-AAA4DADF4E76}|train.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A8603C5-12DF-46CC-B2A4-EA606CEA06F7}|..\\app_employee\\app_employee.csproj|e:\\hoc tap\\ki5\\comp1551\\app_employee\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E56F408D-B86D-4181-9F57-AAA4DADF4E76}|train.csproj|e:\\hoc tap\\ki5\\comp1551\\train\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E56F408D-B86D-4181-9F57-AAA4DADF4E76}|train.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A8603C5-12DF-46CC-B2A4-EA606CEA06F7}|..\\app_employee\\app_employee.csproj|e:\\hoc tap\\ki5\\comp1551\\app_employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E56F408D-B86D-4181-9F57-AAA4DADF4E76}|train.csproj|e:\\hoc tap\\ki5\\comp1551\\train\\generic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E56F408D-B86D-4181-9F57-AAA4DADF4E76}|train.csproj|solutionrelative:generic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A8603C5-12DF-46CC-B2A4-EA606CEA06F7}|..\\app_employee\\app_employee.csproj|e:\\hoc tap\\ki5\\comp1551\\app_employee\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8603C5-12DF-46CC-B2A4-EA606CEA06F7}|..\\app_employee\\app_employee.csproj|e:\\hoc tap\\ki5\\comp1551\\app_employee\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8603C5-12DF-46CC-B2A4-EA606CEA06F7}|..\\app_employee\\app_employee.csproj|e:\\hoc tap\\ki5\\comp1551\\app_employee\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,46 +25,66 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "employee.cs",
-              "DocumentMoniker": "E:\\hoc tap\\ki5\\COMP1551\\train\\employee.cs",
-              "RelativeDocumentMoniker": "employee.cs",
-              "ToolTip": "E:\\hoc tap\\ki5\\COMP1551\\train\\employee.cs",
-              "RelativeToolTip": "employee.cs",
-              "ViewState": "AQIAAFcAAAAAAAAAAAAqwHcAAAAiAAAA",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\hoc tap\\ki5\\COMP1551\\app_employee\\Program.cs",
+              "RelativeDocumentMoniker": "..\\app_employee\\Program.cs",
+              "ToolTip": "E:\\hoc tap\\ki5\\COMP1551\\app_employee\\Program.cs",
+              "RelativeToolTip": "..\\app_employee\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T15:24:40.079Z",
+              "WhenOpened": "2024-06-19T06:21:20.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\hoc tap\\ki5\\COMP1551\\app_employee\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\app_employee\\Form1.cs",
+              "ToolTip": "E:\\hoc tap\\ki5\\COMP1551\\app_employee\\Form1.cs",
+              "RelativeToolTip": "..\\app_employee\\Form1.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAcwF8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T06:20:17.758Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "generic.cs",
-              "DocumentMoniker": "E:\\hoc tap\\ki5\\COMP1551\\train\\generic.cs",
-              "RelativeDocumentMoniker": "generic.cs",
-              "ToolTip": "E:\\hoc tap\\ki5\\COMP1551\\train\\generic.cs",
-              "RelativeToolTip": "generic.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAACAAAA",
+              "Title": "Form2.cs",
+              "DocumentMoniker": "E:\\hoc tap\\ki5\\COMP1551\\app_employee\\Form2.cs",
+              "RelativeDocumentMoniker": "..\\app_employee\\Form2.cs",
+              "ToolTip": "E:\\hoc tap\\ki5\\COMP1551\\app_employee\\Form2.cs",
+              "RelativeToolTip": "..\\app_employee\\Form2.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwEkAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T14:09:03.052Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T06:18:15.914Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\hoc tap\\ki5\\COMP1551\\train\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\hoc tap\\ki5\\COMP1551\\train\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAcwC4AAAACAAAA",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "E:\\hoc tap\\ki5\\COMP1551\\app_employee\\Form2.cs",
+              "RelativeDocumentMoniker": "..\\app_employee\\Form2.cs",
+              "ToolTip": "E:\\hoc tap\\ki5\\COMP1551\\app_employee\\Form2.cs [Design]",
+              "RelativeToolTip": "..\\app_employee\\Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T09:05:15.141Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T06:17:49.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\hoc tap\\ki5\\COMP1551\\app_employee\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\app_employee\\Form1.cs",
+              "ToolTip": "E:\\hoc tap\\ki5\\COMP1551\\app_employee\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\app_employee\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T06:16:18.829Z"
             }
           ]
         }

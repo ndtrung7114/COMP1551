@@ -12,3 +12,4 @@ E:\hoc tap\ki5\COMP1551\train\obj\Debug\net8.0\refint\train.dll
 E:\hoc tap\ki5\COMP1551\train\obj\Debug\net8.0\train.pdb
 E:\hoc tap\ki5\COMP1551\train\obj\Debug\net8.0\train.genruntimeconfig.cache
 E:\hoc tap\ki5\COMP1551\train\obj\Debug\net8.0\ref\train.dll
+E:\hoc tap\ki5\COMP1551\train\obj\Debug\net8.0\train.sourcelink.json
