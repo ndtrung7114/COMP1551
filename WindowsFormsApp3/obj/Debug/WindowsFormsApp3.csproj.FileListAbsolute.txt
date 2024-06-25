@@ -1,0 +1,11 @@
+E:\hoc tap\ki5\COMP1551\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\hoc tap\ki5\COMP1551\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\hoc tap\ki5\COMP1551\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\hoc tap\ki5\COMP1551\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+E:\hoc tap\ki5\COMP1551\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form_login.resources
+E:\hoc tap\ki5\COMP1551\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\hoc tap\ki5\COMP1551\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\hoc tap\ki5\COMP1551\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\hoc tap\ki5\COMP1551\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\hoc tap\ki5\COMP1551\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\hoc tap\ki5\COMP1551\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form_admin.resources
